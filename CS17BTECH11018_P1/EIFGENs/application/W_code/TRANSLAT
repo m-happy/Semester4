@@ -1,0 +1,24 @@
+application	INVERSE_MATRIX	array	F958_7102	C1/in958.c
+application	INVERSE_MATRIX	inverse_matrix	F958_7103	C1/in958.c
+application	INVERSE_MATRIX	no_of_rows	F958_7104	C1/in958.c
+application	INVERSE_MATRIX	ao	F958_7105	C1/in958.c
+application	INVERSE_MATRIX	check_mat	F958_7106	C1/in958.c
+application	INVERSE_MATRIX	make_matrix	F958_7107	C1/in958.c
+application	INVERSE_MATRIX	input_n	F958_7108	C1/in958.c
+application	INVERSE_MATRIX	create_matrix	F958_7109	C1/in958.c
+application	INVERSE_MATRIX	swap_row	F958_7110	C1/in958.c
+application	INVERSE_MATRIX	inverse	F958_7111	C1/in958.c
+application	INVERSE_MATRIX	print_matrix	F958_7112	C1/in958.c
+application	APPLICATION	inverse_matrix	F959_7113	C1/ap959.c
+application	APPLICATION	make	F959_7114	C1/ap959.c
+elks	ARRAY2 [REAL_64]	make	F960_3857	C1/ar960.c
+elks	ARRAY2 [REAL_64]	make_filled	F960_3858	C1/ar960.c
+elks	ARRAY2 [REAL_64]	initialize	F960_3859	C1/ar960.c
+elks	ARRAY2 [REAL_64]	item	F960_3860	C1/ar960.c
+elks	ARRAY2 [REAL_64]	height	F960_3861	C1/ar960.c
+elks	ARRAY2 [REAL_64]	width	F960_3862	C1/ar960.c
+elks	ARRAY2 [REAL_64]	put	F960_3863	C1/ar960.c
+elks	ARRAY2 [REAL_64]	force	F960_3864	C1/ar960.c
+elks	ARRAY2 [REAL_64]	wipe_out	F960_3865	C1/ar960.c
+elks	ARRAY2 [REAL_64]	resize	F960_3866	C1/ar960.c
+elks	ARRAY2 [REAL_64]	resize_with_default	F960_3867	C1/ar960.c

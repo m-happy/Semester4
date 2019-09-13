@@ -1,0 +1,8 @@
+For Non - recursive :
+	n = 10 			time = 4e-06
+	n = 12			time = 5e-06
+	n = 15 			time = 6e-06
+for recursive :
+	n = 10			time = 4e-06
+	n = 12			time = 6e-06
+	n = 15			time = 1.3e-06	
